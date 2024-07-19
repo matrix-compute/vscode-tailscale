@@ -477,7 +477,7 @@
     "lint-staged": "^15.0.2",
     "node-fetch": "^3.3.2",
     "node-loader": "^2.0.0",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.32",
     "postcss-loader": "^7.3.3",
     "prettier": "^3.0.3",
     "react": "^18.2.0",
@@ -495,7 +495,7 @@
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1",
-    "ws": "^8.14.2"
+    "ws": "^8.17.1"
   },
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": [
